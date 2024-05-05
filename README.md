@@ -1,0 +1,1 @@
+My Modern Chair Project, a minimalist yet innovative design concept showcasing the power of HTML and CSS. By integrating simple animations and interactive color palettes, this project demonstrates how basic elements can create engaging user experiences. Explore the seamless color-changing functionality and subtle animations that elevate the user interface.
